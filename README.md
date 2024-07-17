@@ -2,19 +2,19 @@
 
 - Abra um terminal comum, não pode ser o do git, na área de trabalho.
 - Digite `npm create vite@latest` SEM AS ASPAS.
-  - **Se der erro, verifique se o NODE está instalado/atualizado na máquina.**
+  - **Se der erro, verifique se o Node.js está instalado/atualizado na máquina.**
 - Digite o nome do projeto `portfolio` e pressione Enter.
 - Use a seta para baixo até `React` e pressione Enter.
 - Use a seta para baixo até `JavaScript` e pressione Enter.
 
-Rode os comandos sugeridos:
+#### Rode os comandos sugeridos:
 
 ```bash
 cd portfolio
 npm install
 code .
-
-Colocando no repositório do GitHub
+```
+### Colocando no repositório do GitHub
 
 - Sincronize seu VSCode com o GitHub.
 - Clique em `Initialize repository` na IDE.

@@ -26,8 +26,8 @@ code .
 - Selecione privado ou público.
 ```
 #### Colocando Tailwind no projeto
+- [Tailwind-com-Vite](https://tailwindcss.com/docs/guides/vite)
 ```bash
-- [Acesse o site do Tailwind com Vite!](https://tailwindcss.com/docs/guides/vite)
 - Abra um terminal na raiz do projeto
 - Ignore o passo 1 do site pois ja o fizemos.
 - Cole o passo 2 ,3 e por ultimo o 4, cole um de cada vez conforme o site disponibiliza o control + c

@@ -1,10 +1,10 @@
 ## Criar Projeto
 
 ```bash
-- Abra um terminal comum, não pode ser o do git, na área de trabalho.
+- Abra um terminal comum, não pode ser o terminal git, na área de trabalho.
 - Digite `npm create vite@latest` SEM AS ASPAS.
-  - **Se der erro, verifique se o Node.js está instalado/atualizado na máquina.**
-- Digite o nome do projeto `portfolio` e pressione Enter.
+  - Se der erro, verifique se o Node.js está instalado/atualizado na máquina.
+- Digite o nome deste projeto `portfolio` e pressione Enter.
 - Use a seta para baixo até `React` e pressione Enter.
 - Use a seta para baixo até `JavaScript` e pressione Enter.
 ```
